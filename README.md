@@ -1,29 +1,11 @@
-☑️Information
+<h1 align="center">Привет, я JumabaevDev</h1>
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/python.png" alt="Иконка Python">
+</p>
 
-👤Full name: Jumabaev Mirislam Begisbaevich
+<p align="center">🐍 Я занимаюсь разработкой на Python</p>
 
-Programming at ⚙️Python
-
-😊13 y.o
-
-
-📍Location: Nukus
-
-
-
-
-
-
-Contacts
-
-- **Email**: jumabaevdev@gmail.com
-- **Telegram**: [@JumabaevDev](https://t.me/your_telegram_handle)
-
-Social Networks:
-
-Вы также можете следить за нами в социальных сетях:
-
-
-
-- [Instagram](https://www.instagram.com/mrwii612)
-
+<p align="center">
+  <a href="mailto:jumabaevdev@gmail.com"><img src="https://img.icons8.com/color/48/000000/email.png" alt="Email"></a>
+  <a href="https://t.me/JumabaevDevBlog"><img src="https://img.icons8.com/color/48/000000/telegram-app--v3.png" alt="Telegram"></a>
+</p>
