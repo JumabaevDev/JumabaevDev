@@ -14,12 +14,12 @@ Programming at ⚙️Python
 
 
 
-##Contacts
+Contacts
 
 - **Email**: jumabaevdev@gmail.com
 - **Telegram**: [@JumabaevDev](https://t.me/your_telegram_handle)
 
-## Социальные сети
+Social Networks:
 
 Вы также можете следить за нами в социальных сетях:
 
